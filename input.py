@@ -1,2 +1,2 @@
-person=raw_input("Melissa Martinez:")
-print "Hello" + person + "!"
+person=raw_input("Enter your name: ")
+print 'Hello ' + person + '!'

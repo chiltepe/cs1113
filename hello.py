@@ -1,2 +1,2 @@
-print "Hello, World"
-print "Hello, CS113!"
+print "Hello, world!"
+print "Hello, CS1113!"
